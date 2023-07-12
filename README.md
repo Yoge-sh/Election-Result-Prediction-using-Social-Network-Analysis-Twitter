@@ -1,9 +1,6 @@
 # Election-Result-Prediction-using-Social-Network-Analysis-Twitter
 General Lok Sabha Elections 2019 result prediction using twitter network analysis, sentiment analysis on election related tweets.
 
-
-# hehe 
-
 ## Twitter and Lok Sabha Elections 2019
 Indian General Lok Sabha elections were held in 2019 between the timestamp of 11 April to 19 May. Various parties, particularly political leaders, used Twitter extensively during general election campaign. Twitter served as a site for real-time public discussions about the #LokSabhaElections2019. The volume of conversation surrounding #LokSabhaElections2019, including Tweets from candidates, political parties, citizens, and the news media, resulted in more than **396 million Tweets** on the platform from 1 January 2019 to 23 May 2019, representing a nearly 600% increase from 2014. 
 
@@ -27,11 +24,12 @@ Tweet - full text tweet by user
 
 ## Sentiment Analysis
 Three popular frameworks were used to find the sentiments of the tweets
-1. **Bert
+
+1. Bert
 2. textBlob
 3. vader sentiment
 4. get nrc sentiment
-5. flair**
+5. flair
 
 With some differences seen in calculation of the sentiment score based on different models, the final output data looked like this:
 
