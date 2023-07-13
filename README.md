@@ -1,4 +1,4 @@
-# Election-Result-Prediction-using-Social-Network-Analysis-Twitter
+# Election-Result-Prediction-using-Twitter-Network-Analysis
 General Lok Sabha Elections 2019 result prediction using twitter network analysis, sentiment analysis on election related tweets.
 
 ## Twitter and Lok Sabha Elections 2019
