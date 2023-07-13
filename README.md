@@ -23,18 +23,17 @@ Tweet - full text tweet by user
 <img width="800" alt="image" src="https://github.com/Yoge-sh/Election-Result-Prediction-using-Social-Network-Analysis-Twitter/assets/93325653/9f205ac3-f933-45da-a83d-fc8b14d595d1">
 
 ## Sentiment Analysis
-Three popular frameworks were used to find the sentiments of the tweets
+Following popular frameworks were used to find the sentiments of the tweets
 
-1. Bert
-2. textBlob
-3. vader sentiment
-4. get nrc sentiment
-5. flair
+1. BERT
+2. TextBlob
+3. VADER Sentiment
+4. get_nrc_sentiment
+5. Flair
 
 With some differences seen in calculation of the sentiment score based on different models, the final output data looked like this:
 
 <img width="908" alt="image" src="https://github.com/Yoge-sh/Election-Result-Prediction-using-Social-Network-Analysis-Twitter/assets/93325653/142aacd3-429e-4c5f-b270-2c75948acfb9">
-
 
 ## Analysis
 Glimpse of the network is as seen below:
